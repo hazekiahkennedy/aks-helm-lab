@@ -1,0 +1,12 @@
+﻿# Terraform
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/terraform.tfvars
+
+# Helm
+*.tgz
+
+# OS
+.DS_Store
